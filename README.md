@@ -1,0 +1,1 @@
+# SQL-Database-Filtering-Using-AND-LIKE-and-NOT-Operators
